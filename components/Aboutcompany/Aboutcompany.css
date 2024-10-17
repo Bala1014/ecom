@@ -1,0 +1,80 @@
+
+.content{
+    display: flex;
+        margin-left: 100px;
+        margin-right: 100px;
+    /* margin-bottom: 0px; */
+    /* padding: 10px; */
+
+}
+.text-content{
+    width:40%;
+    padding: 20px;
+}
+.text-content h1{
+    margin-top: 30px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.text-content h3{
+    font-size: large;
+    font-weight: bolder;
+}
+.text-content p{
+    margin-top: 20px;
+    font-size: larger;
+
+    float: left;
+}
+
+.text-content button{
+    margin-top: 20px;
+    width:200px;
+    color: white;
+    background-color: rgb(28, 231, 28);
+    border-radius: 15px;
+
+    border-width: 5px;
+    border-color: black;
+}
+.text-content button:hover{
+
+    background-color: orange;
+
+}
+
+.aboutCompany-img{
+    display: grid;
+    width: 60%;
+    padding: 40px;
+
+    grid-template-rows: repeat(2, 300px);
+    grid-template-columns: repeat(2, 500px);
+    grid-auto-flow: row;
+
+    
+    
+
+}
+
+.aboutCompany-img-card{
+    margin: 10px;
+    background-color: blue;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+    height: 200px;
+
+}
+
+.aboutCompany-img-card img{
+    width: 100%;
+    /* aspect-ratio: auto 426 / 173; */
+    height: 200px;
+
+ 
+}
+
+
+
+
+

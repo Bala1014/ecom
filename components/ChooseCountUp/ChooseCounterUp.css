@@ -1,0 +1,53 @@
+
+
+.ChooseCounterUp-content{
+    margin-inline: 100px;
+    padding: 20px;
+}
+
+
+.ChooseCounterUp-content>h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+.ChooseCounterUp-content>p{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.four-counter-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.four-counter-box{
+    
+    display: flex;
+    
+}
+.header-count{
+
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+
+
+}
+
+.header-count h1{
+
+    font-size: 50px;
+    font-weight: bold;
+}
+.header-count h2{
+    /* font-size: 50px; */
+    font-weight: bold;
+    text-align: center;
+}

@@ -1,0 +1,76 @@
+.Featured-products-container{
+    background-color: rgb(70, 69, 69);
+    color: white;
+
+    
+
+}
+.Featured-products-content{
+    /* margin: 100px; */
+
+    margin-inline: 100px;
+    /* margin-top: 50px; */
+    padding: 20px;
+
+}
+.Featured-products-content>h2{
+    text-align: center ;
+
+
+
+}   
+.Featured-products-content>p{
+    margin-top: 20px;
+    text-align: center ;
+
+}
+.Featured-products-button{
+    display: flex;
+    justify-content: center;
+}   
+.Featured-products-button>button{
+    margin-top: 20px;
+    width:200px;
+    color: white;
+    background-color: rgb(28, 231, 28);
+    border-radius: 15px;
+
+    border-width: 5px;
+    border-color: black;
+}  
+.Featured-products-button>button:hover{
+
+    background-color: orange;
+
+}
+
+
+
+
+.Featured-products-card-list{
+    display: grid;
+
+    grid-template-rows: repeat(2, 550px);
+    grid-template-columns: repeat(4, 400px);
+    grid-auto-flow: row;
+    justify-content: space-between;
+
+    /* margin-top: 30px; */
+}
+.Featured-products-card{
+    margin-top: 30px;
+    /* overflow: hidden; */
+}
+
+.Featured-products-card-img img{
+    width: 400px;
+    max-height: 470px;
+}
+
+.Featured-products-card>h2{
+    text-align: center;
+}
+
+.Featured-products-card>p{
+    text-align: center;
+}
