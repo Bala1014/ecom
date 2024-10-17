@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "framer-motion": "^11.11.9",
+    "mdb-react-ui-kit": "^9.0.0",
     "next": "14.2.15",
     "react": "^18",
     "react-countup": "^6.5.3",

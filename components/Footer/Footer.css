@@ -1,0 +1,16 @@
+.footer-container{
+    padding-inline: 100px;
+
+    background-color:#262626;
+
+}
+.footer-social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-text-content{
+    /* margin-inline:200px ; */
+    display: flex;
+    justify-content: space-between;
+}

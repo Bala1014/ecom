@@ -19,9 +19,7 @@ const CounterUp = () => {
               <h2>Years of Trust</h2>
             </div>
           </div>
-
-
-
+          
           <div className="four-counter-box">
             <div className='header-count'>
               <h1><center>+<CountUp end={10000} enableScrollSpy={true} scrollSpyOnce = {true}/></center></h1>
@@ -41,18 +39,7 @@ const CounterUp = () => {
               <h2>Years of Trust</h2>
             </div>
           </div>
-          {/* <div className="four-counter-box">
-            <h1>+<CountUp end={10000} enableScrollSpy={true} scrollSpyOnce = {true}/></h1>
-            <h2>No of Customers</h2>
-          </div>
-          <div className="four-counter-box">
-            <h1>+<CountUp end={10000} enableScrollSpy={true} scrollSpyOnce = {true}/></h1>
-            <h2>No of Customers</h2>
-          </div>
-          <div className="four-counter-box">
-            <h1>+<CountUp end={10000} enableScrollSpy={true} scrollSpyOnce = {true}/></h1>
-            <h2>No of Customers</h2>
-          </div> */}
+          
         </div>
         
 

@@ -2,7 +2,15 @@ import React from 'react'
 
 const loading = () => {
   return (
-    <div>jreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</div>
+    <div>jreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+      ernmjkrnekj
+
+
+
+      njfenrkjnfjernjnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+      nnnnnnnnnnnnnnnn
+    </div>
   )
 }
 

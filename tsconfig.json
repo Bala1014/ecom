@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/Swipper/Swipper.jsx", "components/FeaturedProducts/FeaturedProductsCard.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/Swipper/Swipper.jsx", "components/FeaturedProducts/FeaturedProductsCard.jsx", "components/Footer/Footer.jsx", "app/layout.jsx"],
   "exclude": ["node_modules"]
 }
